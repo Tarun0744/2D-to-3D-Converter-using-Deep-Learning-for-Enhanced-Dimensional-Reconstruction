@@ -1,5 +1,5 @@
 
-# pix2vox.py
+# 2D_to_3D.py
 # Implementation of an enhanced Pix2Vox model for 3D voxel reconstruction from multi-view 2D images
 # Uses PyTorch with ResNet50 backbone, mixed precision training, and advanced data augmentation
 # Includes dataset creation, training, evaluation, and visualization functionalities
